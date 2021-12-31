@@ -30,4 +30,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+#About
+
 {% include feature_row %}
