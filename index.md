@@ -2,6 +2,7 @@
 layout: splash
 author_profile: true
 permalink: /
+toc: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -29,7 +30,5 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-#About
 
 {% include feature_row %}
