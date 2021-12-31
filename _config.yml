@@ -20,10 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Engineering at the University of California Los Angeles (UCLA).
 linkedin_username: alimzhan-sultangazin
 github_username: sultangazin
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: false
 #logo: 
-#masthead_title: 
+masthead_title: "Alimzhan Sultangazin" 
 #
 google_site_verification: "zba1gvQUPVJ6BfAAY1teZYzjTNLs5nio8QFnHeLWx_w"
 
