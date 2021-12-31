@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: Alimzhan Sultangazin, scientist and engineer - Personal Page
+email: alim.sultangazin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  Personal website of Alimzhan Sultangazin, a PhD candidate in Electrical and Computer
+  Engineering at the University of California Los Angeles (UCLA).
+linkedin_username: alimzhan-sultangazin
+github_username: sultangazin
 minimal_mistakes_skin: contrast
-search: true
+search: false
+#logo: 
+#masthead_title: 
+#
+google_site_verification: "zba1gvQUPVJ6BfAAY1teZYzjTNLs5nio8QFnHeLWx_w"
 
 # Build settings
 markdown: kramdown
@@ -58,34 +61,32 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Alimzhan Sultangazin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD candidate in Electrical and Computer Engineering from UCLA with an expertise in non-linear control and estimation algorithms"
+  location: "Los Angeles, CA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://linkedin.com/in/alimzhan-sultangazin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/sultangazin"
+
+header: 
+  teaser: "/assets/images/bio-photo.jpg" # just to check what the hell is this
 
 footer:
   links:
-    - label: "Twitter"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://linkedin.com/in/alimzhan-sultangazin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/sultangazin"
 
 defaults:
   # _posts
