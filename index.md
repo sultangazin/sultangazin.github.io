@@ -31,4 +31,9 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
+Before **the** figure, try adding some text
+
+# And a header
+## And another header
+
 {% include feature_row %}
