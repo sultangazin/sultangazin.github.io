@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: "
 excerpt: "La la la"
 intro:
-  - excerpt: 'Soon-to-graduate PhD candidate in Electrical and Computer 
+  - excerpt: "Soon-to-graduate PhD candidate in Electrical and Computer 
 	      Engineering from UCLA with an expertise in non-linear 
 	      control and estimation algorithms seeking a research or 
 	      software engineer position. Independent problem solver with 
@@ -24,7 +24,7 @@ intro:
 	      clearly communicating technical ideas and a demonstrable 
 	      track record of publications in major journals and 
 	      conferences. Adept in the modern software engineering tools
-	      and practices.'
+	      and practices."
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
