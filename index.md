@@ -35,7 +35,8 @@ and reinforcement learning. Has a vast experience of
 clearly communicating technical ideas and a demonstrable 
 track record of publications in major journals and 
 conferences. Adept in the modern software engineering tools
-and practices."
+and practices.
+{: .text-justify}
 
 # Experience
 
