@@ -19,7 +19,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include author-bio.html %}
+{% include author-profile.html %}
 
 # About
 
