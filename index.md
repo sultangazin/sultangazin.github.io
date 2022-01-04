@@ -45,7 +45,6 @@ clearly **communicating technical ideas** and a demonstrable
 conferences. Adept in the modern software engineering tools
 and practices.
 {: .text-justify}  
-------------------------------------------------------------------------------------------------------------------------
 
 ## Research
 
