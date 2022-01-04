@@ -23,11 +23,13 @@ for [**privacy in optimal control**](https://arxiv.org/abs/1906.07460) and [**le
 demonstrations**](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has more than 5 years of experience 
 in **non-linear 
 control and estimation** algorithms.  
+{: .text-justify}
    
 Fast learner with a deep understanding of 
 **nonlinear optimization**, **motion planning algorithms**, 
 **probabilistic robotics**, **deep learning**, **computer vision**, 
 and **reinforcement learning**.  
+{: .text-justify}
  
 Has a vast experience of 
 clearly **communicating technical ideas** and a demonstrable 
