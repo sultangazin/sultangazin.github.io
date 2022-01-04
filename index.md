@@ -17,16 +17,9 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/bio-photo.jpg
-    alt: "Bio photo"
-    title: "Alimzhan Sultangazin"
-    excerpt: {{ author.bio | markdownify }}
 ---
 
 {% include author-profile-inline.html type="left" %}
-
-{% include feature_row id="feature_row2" %}
 
 # About
 
