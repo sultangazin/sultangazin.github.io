@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Engineering at the University of California Los Angeles (UCLA).
 linkedin_username: alimzhan-sultangazin
 github_username: sultangazin
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 search: false
 #logo: 
 masthead_title: "Alimzhan Sultangazin" 
@@ -75,9 +75,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sultangazin"
-    - label: ""Google Scholar"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://scholar.google.com/citations?user=zf4Fxb0AAAAJ&hl=en"
 
 footer:
   links:
@@ -87,9 +84,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sultangazin"
-    - label: ""Google Scholar"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://scholar.google.com/citations?user=zf4Fxb0AAAAJ&hl=en"
 
 defaults:
   # _posts
