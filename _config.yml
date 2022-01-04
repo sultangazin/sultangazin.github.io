@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Alimzhan Sultangazin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate <br>Cyber-Physical Systems Laboratory<br>Electrical and Computer Engineering Department, UCLA <br>Office: 54-120A, Engineering IV, 420 Westwood Plaza, Los Angeles, CA"
+  bio    : "PhD Candidate <br>Cyber-Physical Systems Laboratory<br>Electrical and Computer Engineering Department, UCLA <br>Office: 54-120A, Engineering IV,<br>420 Westwood Plaza, Los Angeles, CA"
   links:
     - label: "E-mail"
       icon: "fas fa-envelope"
@@ -80,7 +80,7 @@ author:
 
 footer:
   links:
-    - label: "Contact me over e-mail"
+    - label: "E-mail"
       icon: "fas fa-envelope"
       url: "mailto:asultangazin@g.ucla.edu"
     - label: "LinkedIn"
