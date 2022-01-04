@@ -1,8 +1,8 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 permalink: /
-toc: true
+toc: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
