@@ -16,7 +16,7 @@ feature_row:
 
 {% include author-profile-inline.html type="left" %}
 
-Independent problem solver with 
+> Independent problem solver with 
 experience leading research and development – from 
 conception to implementation – of cutting-edge algorithms 
 for [**privacy in optimal control**](https://arxiv.org/abs/1906.07460) and [**learning from 
@@ -24,12 +24,12 @@ demonstrations**](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has mo
 in **non-linear 
 control and estimation** algorithms.  
    
-Fast learner with a deep understanding of 
+> Fast learner with a deep understanding of 
 **nonlinear optimization**, **motion planning algorithms**, 
 **probabilistic robotics**, **deep learning**, **computer vision**, 
 and **reinforcement learning**.  
  
-Has a vast experience of 
+> Has a vast experience of 
 clearly **communicating technical ideas** and a demonstrable 
 [**track record of publications**](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
 conferences. Adept in the modern software engineering tools
