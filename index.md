@@ -2,12 +2,7 @@
 layout: splash
 author_profile: false
 permalink: /
-toc: flase
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: "
+toc: false
 excerpt: "La la la"
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -21,22 +16,25 @@ feature_row:
 
 {% include author-profile-inline.html type="left" %}
 
-# About
-
 Soon-to-graduate PhD candidate in Electrical and Computer 
 Engineering from UCLA with more than 5 years of experience 
 in **non-linear 
-control and estimation** algorithms seeking a research or 
-software engineer position. Independent problem solver with 
+control and estimation** algorithms.  
+
+Independent problem solver with 
 experience leading research and development – from 
 conception to implementation – of cutting-edge algorithms 
-for **privacy in optimal control** and **learning from 
-demonstrations**. Fast learner with a deep understanding of 
+for [**privacy in optimal control**](https://) and [**learning from 
+demonstrations**](https://).  
+
+Fast learner with a deep understanding of 
 **nonlinear optimization**, **motion planning algorithms**, 
 **probabilistic robotics**, **deep learning**, **computer vision**, 
-and **reinforcement learning**. Has a vast experience of 
+and **reinforcement learning**.   
+
+Has a vast experience of 
 clearly **communicating technical ideas** and a demonstrable 
-**track record of publications** in major journals and 
+[**track record of publications**](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
 conferences. Adept in the modern software engineering tools
 and practices.
 {: .text-justify}
