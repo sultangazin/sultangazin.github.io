@@ -65,6 +65,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "PhD Candidate <br>Cyber-Physical Systems Laboratory<br>Electrical and Electronic Engineering Department, UCLA <br>Office: 54-120A, Engineering IV, UCLA"
   links:
+    - label: "Curriculum Vitae"
+      icon: "ai ai-cv"
+      url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://linkedin.com/in/alimzhan-sultangazin"
@@ -72,7 +75,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sultangazin"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      icon: "ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ"
 
 footer:
