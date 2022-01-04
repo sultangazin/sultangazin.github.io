@@ -1,7 +1,7 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div itemscope itemtype="https://schema.org/Person" class="feature__item{% if include.type %}--{{ include.type }}{& endif %}">
+<div itemscope itemtype="https://schema.org/Person" class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
 
   {% if author.avatar %}
     <div class="archive__item-teaser">
