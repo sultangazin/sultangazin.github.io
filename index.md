@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 permalink: /
-toc: false
+toc: flase
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
