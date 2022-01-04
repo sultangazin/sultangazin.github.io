@@ -24,7 +24,7 @@ feature_row2:
     excerpt: {{ author.bio | markdownify }}
 ---
 
-{% include author-profile.html %}
+{% include author-profile.html type="left" %}
 
 {% include feature_row id="feature_row2" %}
 
