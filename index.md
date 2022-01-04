@@ -22,11 +22,13 @@ conception to implementation – of cutting-edge algorithms
 for [**privacy in optimal control**](https://arxiv.org/abs/1906.07460) and [**learning from 
 demonstrations**](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has more than 5 years of experience 
 in **non-linear 
-control and estimation** algorithms.     
+control and estimation** algorithms.  
+   
 Fast learner with a deep understanding of 
 **nonlinear optimization**, **motion planning algorithms**, 
 **probabilistic robotics**, **deep learning**, **computer vision**, 
-and **reinforcement learning**.   
+and **reinforcement learning**.  
+ 
 Has a vast experience of 
 clearly **communicating technical ideas** and a demonstrable 
 [**track record of publications**](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
