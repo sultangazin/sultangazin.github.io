@@ -1,10 +1,10 @@
 {% assign author = page.author | default: page.authors[0] | default: site.author %}
 {% assign author = site.data.authors[author] | default: author %}
 
-<div itemscope itemtype="https://schema.org/Person" class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-
+<div itemscope itemtype="https://schema.org/Person" class="h-card feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+ <div class="archive__item">
   {% if author.avatar %}
-    <div class="archive__item-teaser">
+    <div class="author__avatar archive__item-teaser">
       <a href="{{ author.home | default: '/' | absolute_url }}">
         <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" itemprop="image" class="u-photo">
       </a>
@@ -12,6 +12,8 @@
   {% endif %}
 
   <div class="archive__item-body">
+
+  <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
@@ -243,4 +245,6 @@
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
+  </div>
+</div>
 </div>
