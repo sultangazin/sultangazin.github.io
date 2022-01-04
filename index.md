@@ -7,24 +7,16 @@ learning_from_demonstrations:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Learning From Demonstrations img"
     title: "Learning From Expert Demonstrations"
-    excerpt: 'In this project, we revisit the problem of learning a 
+    excerpt: 'We revisit the problem of learning a 
 		stabilizing controller from a finite number of 
-		demonstrations by an expert. By focusing on feedback 
-		linearizable systems, we show how to combine expert 
-		demonstrations into a stabilizing controller, provided 
-		that demonstrations are sufficiently long and there are 
-		at least n+1 of them, where n is the number of states of 
+		demonstrations by an expert. The proposed algorithm
+		requires only n+1 expert demonstrations, where n is the number of states of 
 		the system being controlled. When we have more than n+1 
-		demonstrations, we discuss how to optimally choose the 
-		best n+1 demonstrations to construct the stabilizing 
-		controller. We further extend these results beyond a 
-		class of feedback linearizable systems by 
-		immersing a nonlinear system into an extended system 
-		that contains a chain of integrators. Finally, we 
-		leverage recent results on data-driven control to 
-		dispense with the need to know the plant model. The 
+		demonstrations, at every time interval, we can choose the 
+		best n+1 demonstrations to approximate the stabilizing controller
+		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
-		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.'
+		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.{: .text-justify}'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
