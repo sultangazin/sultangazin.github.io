@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Alimzhan Sultangazin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate <br>Cyber-Physical Systems Laboratory<br>Electrical and Electronic Engineering Department, UCLA <br>Office: 54-120A, Engineering IV, UCLA"
+  bio    : "PhD Candidate <br>Cyber-Physical Systems Laboratory<br>Electrical and Computer Engineering Department, UCLA <br>Office: 54-120A, Engineering IV, UCLA"
   links:
     - label: "Curriculum Vitae"
       icon: "ai ai-fw ai-cv"
