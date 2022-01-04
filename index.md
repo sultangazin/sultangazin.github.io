@@ -20,6 +20,9 @@ learning_from_demonstrations:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    url2: "#test-link2"
+    btn_label2: "Video"
+    btn_class2: "btn--primary"
 privacy_in_control:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Privacy In Control img"
