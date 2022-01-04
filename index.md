@@ -3,15 +3,23 @@ layout: splash
 author_profile: false
 permalink: /
 toc: false
-excerpt: "La la la"
-feature_row:
+learning_from_demonstrations:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    alt: "Learning From Demonstrations img"
+    title: "Learning From Expert Demonstrations"
+    excerpt: 'Here, info about learning from demonstrations with links'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+privacy_in_control:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Privacy In Control img"
+    title: "Privacy in Control Over the Cloud"
+    excerpt: 'Here, info about privacy in control over the cloud with links'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include author-profile-inline.html type="left" %}
@@ -38,6 +46,16 @@ conferences. Adept in the modern software engineering tools
 and practices.
 {: .text-justify}  
 
+# Research
+
+{% include feature_row type="left" id="learning_from_demonstrations" %}
+
+{% include feature_row type="left" id="privacy_in_control" %}
+
+# Other Projects
+
+# Professional Service
+
 # Experience
 
-{% include feature_row type="left" %}
+# Education
