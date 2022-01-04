@@ -24,9 +24,6 @@
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
         {{ author.bio | markdownify }}
-	{{ author.workplace | markdownify }}
-	{{ author.department | markdownify }}
-	{{ author.workplace | markdownify }}
       </div>
     {% endif %}
   </div>

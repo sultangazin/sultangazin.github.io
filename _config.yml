@@ -63,10 +63,7 @@ plugins:
 author:
   name   : "Alimzhan Sultangazin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Graduate Student Researcher"
-  workplace: "Cyber-Physical Systems Laboratory"
-  department: "Electrical and Electronic Engineering Department, UCLA"
-  address: "Office: 54-120A, Engineering IV, UCLA"
+  bio    : "PhD Candidate <br>Cyber-Physical Systems Laboratory<br>Electrical and Electronic Engineering Department, UCLA <br>Office: 54-120A, Engineering IV, UCLA"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
