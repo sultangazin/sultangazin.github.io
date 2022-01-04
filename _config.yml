@@ -63,12 +63,11 @@ plugins:
 author:
   name   : "Alimzhan Sultangazin"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD candidate in Electrical and Computer Engineering from UCLA with an expertise in non-linear control and estimation algorithms"
-  location: "Los Angeles, CA"
+  bio    : "Graduate Student Researcher"
+  workplace: "Cyber-Physical Systems Laboratory"
+  department: "Electrical and Electronic Engineering Department, UCLA"
+  address: "Office: 54-120A, Engineering IV, UCLA"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://linkedin.com/in/alimzhan-sultangazin"
