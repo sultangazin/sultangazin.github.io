@@ -86,8 +86,10 @@
 }
 
 .archive__item-teaser {
-  position: relative;
-  top: 50%;
+  position: absolute
+  top: 0;
+  bottom: 0;
+  margin: auto
   border-radius: $border-radius;
   overflow: hidden;
 
