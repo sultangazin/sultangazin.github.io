@@ -24,7 +24,6 @@ privacy_in_control:
 
 {% include author-profile-inline.html type="left" %}
 
-{% include feature-row id="intro" type="left" %}
 Independent problem solver with 
 experience leading research and development – from 
 conception to implementation – of cutting-edge algorithms 
