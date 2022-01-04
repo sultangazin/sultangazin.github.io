@@ -19,6 +19,8 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+{% include author-bio.html %}
+
 # About
 
 Soon-to-graduate PhD candidate in Electrical and Computer 
