@@ -16,7 +16,7 @@ learning_from_demonstrations:
 		best n+1 demonstrations to approximate the stabilizing controller
 		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
-		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.{: .text-justify}'
+		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
