@@ -17,7 +17,7 @@ learning_from_demonstrations:
 		best n+1 demonstrations to approximate the stabilizing controller
 		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
-		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.<br>
+		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.<br><br>
 		**Keywords**: *learning from demonstrations, imitation learning, motion control* <br>
 		**Technical skills**: *ROS, C++, Python, MATLAB, Simulink* '
     url: "/assets/pdfs/UCLA-CyPhyLab-2021-03.pdf"
@@ -46,8 +46,8 @@ privacy_in_control:
 		transformation-based methods for enforcing data privacy. 
 		We also quantify the amount of provided privacy and 
 		discuss how much privacy is lost when the adversary has 
-		access to side knowledge.<br>
-		**Keywords**: data privacy, optimization, predictive control*<br>
+		access to side knowledge.<br><br>
+		**Keywords**: *data privacy, optimization, predictive control*<br>
 		**Technical skills**: *MATLAB, Simulink*'
     url: "https://arxiv.org/pdf/1906.07460.pdf"
     btn_label: "PDF"
