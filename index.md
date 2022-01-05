@@ -19,7 +19,7 @@ learning_from_demonstrations:
 		feasibility of the proposed algorithm is experimentally 
 		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.<br><br>
 		**Keywords**: *learning from demonstrations, imitation learning, motion control* <br>
-		**Technical skills**: *ROS, C++, Python, MATLAB, Simulink* '
+		**Technical skills**: *ROS, C++, Python, MATLAB, Simulink, Git* '
     url: "/assets/pdfs/UCLA-CyPhyLab-2021-03.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
@@ -64,8 +64,12 @@ alphapilot:
 		teams and research groups. Worked on the design of the AI
 		framework, written in C++ and powered by NVIDIA Jetson, that
 		can pilot racing drones through aerial courses at high speed
-		**Keywords**: *optimal trajectory generation, obstacle avoidance, control barrier functions, object detection*<br>
-		**Technical skills**: *ROS, C++, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT*'
+		without GPS, data relay or human intervention. I designed 
+		algorithms for optimal trajectory generation and obstacle avoidance.
+		Was involved in training of the perception system, more specifically,
+		during data collection and integration of the neural network with NVIDIA Jetson.<br>
+		**Keywords**: *optimal trajectory generation, obstacle avoidance, control barrier functions, neural networks, object detection*<br>
+		**Technical skills**: *ROS, C++, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT, Git, *'
     url: "https://www.herox.com/alphapilot/82-teams"
     btn_label: "Website"
     btn_class: "btn--primary"
