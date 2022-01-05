@@ -48,7 +48,7 @@ privacy_in_control:
 		discuss how much privacy is lost when the adversary has 
 		access to side knowledge.<br>
 		*Keywords: data privacy, optimization, predictive control*<br>
-		*Technical skills used: MATLAB, Simulink '
+		*Technical skills used: MATLAB, Simulink *'
     url: "https://arxiv.org/pdf/1906.07460.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
