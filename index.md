@@ -110,8 +110,6 @@ and practices.
 
 ## Other Projects
 
-{% include feature_row type="left" id="alphapilot" %}
-
 ## Professional Service
 
 ## Experience
