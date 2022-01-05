@@ -7,7 +7,7 @@ learning_from_demonstrations:
   - image_path: /assets/images/LFD.png
     alt: "Learning From Demonstrations img"
     title: "Learning From Expert Demonstrations"
-    excerpt: '*(joint work with Lucas Fraile, Luigi Pannocchi, and Paulo Tabuada)*<br>
+    excerpt: '*(joint work with L. Fraile, L. Pannocchi, and P. Tabuada)*<br>
 		We revisit the problem of learning a 
 		stabilizing controller from a finite number of 
 		demonstrations by an expert. The proposed algorithm
@@ -31,7 +31,7 @@ privacy_in_control:
   - image_path: /assets/images/PrivacyInControl.jpg
     alt: "Privacy In Control img"
     title: "Privacy in Control Over the Cloud"
-    excerpt: '*(joint work with Paulo Tabuada)*<br>
+    excerpt: '*(joint work with P. Tabuada)*<br>
 		Cloud computing platforms are being increasingly used 
 		for closing feedback control loops, especially when 
 		computationally expensive algorithms, such as 
