@@ -1,3 +1,9 @@
 main:
-  - title: "About"
-    url: 
+  - title: "Research"
+    url: "index.html#research"
+  - title: "Publications"
+    url: "index.html#publications"
+  - title: "Projects"
+    url: "index.html#selection-of-previous-projects"
+  - title: "Professional Service"
+    url: "index.html#professional-service"
