@@ -56,7 +56,7 @@ privacy_in_control:
     btn_label2: "Slides"
     btn_class2: "btn--primary"
 alphapilot:
-  - image_path: /assets/images/LFD.png
+  - image_path: /assets/images/alphapilot.jpeg
     alt: "AlphaPilot image"
 ---
 
