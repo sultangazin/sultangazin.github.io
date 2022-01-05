@@ -77,7 +77,7 @@ reinforcement:
   - image_path: /assets/images/RL_img.png
     alt: "RL Project img"
     title: "Learning to Control Mechanical Systems"
-    excerpt: '*(joint work with Matteo Marchi, Marcus Lucas, and Lucas Fraile)*<br>
+    excerpt: '*(joint work with M. Marchi, M. Lucas, and L. Fraile)*<br>
 		We want to understand trade-offs inherent in applying learning-based control
 		strategies to standard control problems, solvable with classical techniques.
 		To this goal, we study the performance of [Model-Based Deep Reinforcement Learning 
@@ -86,10 +86,29 @@ reinforcement:
 		For the limited number of environments we tested, we conclude that GAIL outperforms MB-DRL. 
 		In the case of the model-based algorithm we believe that we can improve its performance 
 		by changing the way the optimal action is chosen and by improving the policy with model-free 
-		methods.
+		methods.<br>
 		**Keywords**: *reinforcement learning, imitation learning, model predictive control*<br>
 		**Technical skills**: *PyTorch, OpenAI Gym*'
     url: "/assets/pdfs/ECE239AS_Project_Final.pdf"
+    btn_label: "PDF"
+    btn_class: "btn--primary"
+dmpc:
+  - image_path: /assets/images/Quad_system.PNG
+    alt: "DMPC project img"
+    title: "Algorithms for Distributed Model Predictive Control"
+    excerpt: '*(joint work with L. Fraile)*<br>
+		In this project we consider two state-of-the-art algorithms for solving 
+		distributed model predictive control (DMPC) problems. 
+		[The first algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0005109813000101?via%3Dihub) 
+		utilizes dual decomposition and accelerated gradient methods 
+		in a distributed fashion. [The second algorithm](https://ieeexplore.ieee.org/document/8264654) uses alternating direction method of 
+		multipliers (ADMM) on the primal problem. We implement the three aforementioned algorithms
+		and compare their results with those given by CVX. These algorithms were tested on the 
+		[quadruple-tank process system](https://ieeexplore.ieee.org/document/845876). We evaluate the algorithms based on their convergence 
+		to the solution.<br>
+		**Keywords**: *optimization, model predictive control, gradient methods, ADMM*<br>
+		**Technical skills**: *MATLAB, Simulink*'
+    url: "/assets/pdfs/ECE236C_Project.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
 ---
@@ -127,10 +146,13 @@ and practices.
 
 {% include feature_row type="left" id="privacy_in_control" %}
 
-## Other Projects
+## Publications
+
+## Selection of previous projects
 
 {% include feature_row type="left" id="alphapilot" %}
 {% include feature_row type="left" id="reinforcement" %}
+{% include feature_row type="left" id="dmpc" %}
 
 ## Professional Service
 
