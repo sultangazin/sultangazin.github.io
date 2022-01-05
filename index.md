@@ -60,9 +60,13 @@ alphapilot:
     alt: "AlphaPilot image"
     title: "AlphaPilot AI Drone Innovation Challenge"
     excerpt: '*(as a member of the team Formula Drone)*<br>
+		Finished as the top qualifier among 424 teams, ahead of numerous
+		teams and research groups. Worked on the design of the AI
 		**Keywords**: *optimal trajectory generation, obstacle avoidance, control barrier functions*<br>
 		**Technical skills**: *ROS, C++, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT*'
     url: "https://www.herox.com/alphapilot/82-teams"
+    btn_label2: "Website"
+    btn_class2: "btn--primary"
 ---
 
 {% include author-profile-inline.html type="left" %}
