@@ -137,7 +137,7 @@ pulse_est:
 		standard RGB videos to estimate a pulse signal of a human subject. We construct a simple 
 		proof-of-concept algorithmic pipeline using both the Spatial Subspace Rotation (2SR) 
 		and Plane-Orthogonal-to-Skin (POS) methods, requiring only one initial skin-pixel 
-		identification step. We then verify our pipeline's output with a small sample from two 
+		identification step. We then verify output with a small sample from two 
 		data sets, and discuss potential areas for improvement. <br>
 		**Keywords**: *image processing, SVM, living skin tissue segmentation, remote photoplethysmography*<br>
 		**Technical skills**: *MATLAB*'
