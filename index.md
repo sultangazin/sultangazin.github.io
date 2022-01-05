@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 permalink: /
-toc: false
+toc: true
 learning_from_demonstrations:
   - image_path: /assets/images/LFD.png
     alt: "Learning From Demonstrations img"
