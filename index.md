@@ -18,7 +18,7 @@ learning_from_demonstrations:
 		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
 		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.<br><br>
-		**Keywords**: *learning from demonstrations, imitation learning, motion control* <br>
+		**Keywords**: *learning from demonstrations, imitation learning, motion control, computational geometry* <br>
 		**Technical skills**: *ROS, C++, Python, MATLAB, Simulink, Git* '
     url: "/assets/pdfs/UCLA-CyPhyLab-2021-03.pdf"
     btn_label: "PDF"
