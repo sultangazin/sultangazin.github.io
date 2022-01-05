@@ -4,10 +4,11 @@ author_profile: false
 permalink: /
 toc: false
 learning_from_demonstrations:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/LFD.png
     alt: "Learning From Demonstrations img"
     title: "Learning From Expert Demonstrations"
-    excerpt: 'We revisit the problem of learning a 
+    excerpt: '*(joint work with Lucas Fraile, Luigi Pannocchi, and Paulo Tabuada)*<br>
+		We revisit the problem of learning a 
 		stabilizing controller from a finite number of 
 		demonstrations by an expert. The proposed algorithm
 		requires only n+1 expert demonstrations, where n is the number of states of 
@@ -17,21 +18,39 @@ learning_from_demonstrations:
 		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
 		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/assets/pdfs/UCLA-CyPhyLab-2021-03.pdf"
+    btn_label: "PDF"
     btn_class: "btn--primary"
-    url2: "#test-link2"
+    url2: "https://youtu.be/sgVyrHctXBU"
     btn_label2: "Video"
     btn_class2: "btn--primary"
+    url3: "https://github.com/sultangazin/cyphy_testbed/tree/LFD"
+    btn_label3: "GitHub"
+    btn_class3: "btn--primary"
 privacy_in_control:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/PrivacyInControl.jpg
     alt: "Privacy In Control img"
     title: "Privacy in Control Over the Cloud"
-    excerpt: 'Here, info about privacy in control over the cloud with links'
-    url: "#test-link"
-    btn_label: "Read More"
+    excerpt: '*(joint work with Paulo Tabuada)*<br>
+		Cloud computing platforms are being increasingly used 
+		for closing feedback control loops, especially when 
+		computationally expensive algorithms, such as 
+		model-predictive control, are used to optimize
+		performance. Outsourcing of control algorithms entails 
+		an exchange of data between the control system and the 
+		cloud, and, naturally, raises concerns about the privacy 
+		of the control system’s data (e.g., state trajectory, 
+		control objective). We propose several 
+		transformation-based methods for enforcing data privacy. 
+		We also quantify the amount of provided privacy and 
+		discuss how much privacy is lost when the adversary has 
+		access to side knowledge.'
+    url: "https://arxiv.org/pdf/1906.07460.pdf"
+    btn_label: "PDF"
     btn_class: "btn--primary"
-
+    url2: "/assets/pdfs/CDC19_Presentation.pdf"
+    btn_label2: "Slides"
+    btn_class2: "btn--primary"
 ---
 
 {% include author-profile-inline.html type="left" %}
@@ -39,21 +58,24 @@ privacy_in_control:
 Independent problem solver with 
 experience leading research and development – from 
 conception to implementation – of cutting-edge algorithms 
-for [**privacy in optimal control**](https://arxiv.org/abs/1906.07460) and [**learning from 
-demonstrations**](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has more than 5 years of experience 
-in **non-linear 
-control and estimation** algorithms.  
+for [*privacy in optimal control*](https://arxiv.org/abs/1906.07460) and [*learning from 
+demonstrations*](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has more than 5 years of experience 
+in *non-linear 
+control and estimation* algorithms.  
 {: .text-justify}  
    
-Fast learner with a deep understanding of 
-**nonlinear optimization**, **motion planning algorithms**, 
-**probabilistic robotics**, **deep learning**, **computer vision**, 
-and **reinforcement learning**.  
+Fast learner with a deep understanding of:
+* nonlinear optimization
+* motion planning algorithms 
+* probabilistic robotics
+* deep learning
+* computer vision 
+* reinforcement learning.  
 {: .text-justify}  
  
 Has a vast experience of 
-clearly **communicating technical ideas** and a demonstrable 
-[**track record of publications**](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
+clearly *communicating technical ideas* and a demonstrable 
+[*track record of publications*](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
 conferences. Adept in the modern software engineering tools
 and practices.
 {: .text-justify}  
