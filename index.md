@@ -7,7 +7,7 @@ learning_from_demonstrations:
   - image_path: /assets/images/LFD.png
     alt: "Learning From Demonstrations img"
     title: "Learning Control From Expert Demonstrations"
-    excerpt: '*(joint work with L. Fraile, L. Pannocchi, and P. Tabuada)*<br>
+    excerpt: '*(joint work with L. Fraile, L. Pannocchi, and P. Tabuada)*<br><br>
 		We revisit the problem of learning a 
 		stabilizing controller from a finite number of 
 		demonstrations by an expert. The proposed algorithm
@@ -33,7 +33,7 @@ privacy_in_control:
   - image_path: /assets/images/PrivacyInControl.jpg
     alt: "Privacy In Control img"
     title: "Privacy in Control Over the Cloud"
-    excerpt: '*(joint work with P. Tabuada)*<br>
+    excerpt: '*(joint work with P. Tabuada)*<br><br>
 		Cloud computing platforms are being increasingly used 
 		for closing feedback control loops, especially when 
 		computationally expensive algorithms, such as 
@@ -59,7 +59,7 @@ alphapilot:
   - image_path: /assets/images/alphapilot.jpeg
     alt: "AlphaPilot image"
     title: "AlphaPilot AI Drone Innovation Challenge"
-    excerpt: '*(as a member of the team Formula Drone)*<br>
+    excerpt: '*(as a member of the team Formula Drone)*<br><br>
 		Finished as the top qualifier among 424 teams, ahead of numerous
 		teams and research groups. Worked on the design of the AI
 		framework, written in C++ and powered by NVIDIA Jetson, that
@@ -67,7 +67,7 @@ alphapilot:
 		without GPS, data relay or human intervention. I designed 
 		algorithms for optimal trajectory generation and obstacle avoidance.
 		Was involved in development of the perception system, more specifically,
-		during data collection and integration of the neural network with NVIDIA Jetson.<br>
+		during data collection and integration of the neural network with NVIDIA Jetson.<br><br>
 		**Keywords**: *optimal trajectory generation, obstacle avoidance, control barrier functions, neural networks, object detection*<br>
 		**Technical skills**: *ROS, C++, Python, MATLAB, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT, Git*'
     url: "https://www.herox.com/alphapilot/82-teams"
@@ -77,7 +77,7 @@ reinforcement:
   - image_path: /assets/images/RL_img.png
     alt: "RL Project img"
     title: "Learning to Control Mechanical Systems"
-    excerpt: '*(joint work with M. Marchi, M. Lucas, and L. Fraile)*<br>
+    excerpt: '*(joint work with M. Marchi, M. Lucas, and L. Fraile)*<br><br>
 		We want to understand trade-offs inherent in applying learning-based control
 		strategies to standard control problems, solvable with classical techniques.
 		To this goal, we study the performance of [Model-Based Deep Reinforcement Learning 
@@ -85,7 +85,7 @@ reinforcement:
 		For the limited number of environments we tested, we conclude that GAIL outperforms MB-DRL. 
 		In the case of the model-based algorithm we believe that we can improve its performance 
 		by changing the way the optimal action is chosen and by improving the policy with model-free 
-		methods.<br>
+		methods.<br><br>
 		**Keywords**: *reinforcement learning, imitation learning, model predictive control*<br>
 		**Technical skills**: *PyTorch, OpenAI Gym*'
     url: "/assets/pdfs/ECE239AS_Project_Final.pdf"
@@ -95,7 +95,7 @@ dmpc:
   - image_path: /assets/images/Quad_system.PNG
     alt: "DMPC project img"
     title: "Algorithms for Distributed Model Predictive Control"
-    excerpt: '*(joint work with L. Fraile)*<br>
+    excerpt: '*(joint work with L. Fraile)*<br><br>
 		In this project we consider two state-of-the-art algorithms for solving 
 		distributed model predictive control (DMPC) problems. 
 		[The first algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0005109813000101?via%3Dihub) 
@@ -104,7 +104,7 @@ dmpc:
 		multipliers (ADMM) on the primal problem. We implement the three aforementioned algorithms
 		and compare their results with those given by CVX. These algorithms were tested on the 
 		[quadruple-tank process system](https://ieeexplore.ieee.org/document/845876). We evaluate the algorithms based on their convergence 
-		to the solution.<br>
+		to the solution.<br><br>
 		**Keywords**: *optimization, model predictive control, gradient methods, ADMM*<br>
 		**Technical skills**: *MATLAB, Simulink*'
     url: "/assets/pdfs/ECE236C_Project.pdf"
@@ -114,7 +114,7 @@ neural_net:
   - image_path: /assets/images/NN_confusion_matrix.png
     alt: "Neural Networks project img"
     title: "Task Classification of EEG Data with Neural Networks"
-    excerpt: '*(joint work with T. Le, H. Unal, H.-C. Hung)*<br>
+    excerpt: '*(joint work with T. Le, H. Unal, H.-C. Hung)*<br><br>
 		In brain-computer interfacing, there has been an increased interest in the problem 
 		of end-to-end electroencephalogram (EEG) signal decoding. In this project, we 
 		studied deep neural networks with a range of different architectures for the purpose of 
@@ -122,7 +122,7 @@ neural_net:
 		network depths were considered. Next, performance of several architectures based on LSTM 
 		and GRU was studied. The experiments have shown that the best testing accuracy of 62.8% 
 		is achieved by using Deep ConvNet. This is unexpected because RNNs are known to handle 
-		temporal series, like EEG, better than CNNs. <br>
+		temporal series, like EEG, better than CNNs. <br><br>
 		**Keywords**: *deep neural networks, convolutional neural networks, recurrent neural networks*<br>
 		**Technical skills**: *Keras, TensorFlow, Python*'
     url: "/assets/pdfs/EE239_DeepLearning_EEG_Project.pdf"
@@ -132,13 +132,13 @@ pulse_est:
   - image_path: /assets/images/PPG_Estimate.png
     alt: "Computational imaging project img"
     title: "Remote PPG with POS and 2SR"
-    excerpt: '*(joint work with J. Bunton)*<br>
+    excerpt: '*(joint work with J. Bunton)*<br><br>
 		We explore the task of remote photo-plethysmography (rPPG), where we use 
 		standard RGB videos to estimate a pulse signal of a human subject. We construct a simple 
 		proof-of-concept algorithmic pipeline using both the Spatial Subspace Rotation (2SR) 
 		and Plane-Orthogonal-to-Skin (POS) methods, requiring only one initial skin-pixel 
 		identification step. We then verify output with a small sample from two 
-		data sets, and discuss potential areas for improvement. <br>
+		data sets, and discuss potential areas for improvement. <br><br>
 		**Keywords**: *image processing, SVM, living skin tissue segmentation, remote photoplethysmography*<br>
 		**Technical skills**: *MATLAB*'
     url: "/assets/pdfs/ECE_239AS_Imaging_Project.pdf"
