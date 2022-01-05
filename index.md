@@ -60,16 +60,9 @@ alphapilot:
     alt: "AlphaPilot image"
     title: "AlphaPilot AI Drone Innovation Challenge"
     excerpt: '*(as a member of the team Formula Drone)*<br>
-		Finished as the top qualifier among 424 teams, ahead of numerous
-		teams and research groups. Worked on the design of the AI
-		framework, written in C++ and powered by NVIDIA Jetson, that
-		can pilot racing drones through aerial courses at high speed
-		without GPS, data relay or human intervention. I designed 
-		algorithms for optimal trajectory generation and obstacle avoidance.
-		Was involved in training of the quadrotor's perception system, more specifically, 
-		during data collection and integration of the network with NVIDIA Jetson.<br>
 		**Keywords**: *optimal trajectory generation, obstacle avoidance, control barrier functions*<br>
 		**Technical skills**: *ROS, C++, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT*'
+    url: "https://www.herox.com/alphapilot/82-teams"
 ---
 
 {% include author-profile-inline.html type="left" %}
