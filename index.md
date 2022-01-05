@@ -81,8 +81,7 @@ reinforcement:
 		We want to understand trade-offs inherent in applying learning-based control
 		strategies to standard control problems, solvable with classical techniques.
 		To this goal, we study the performance of [Model-Based Deep Reinforcement Learning 
-		(MB-DRL)](https://arxiv.org/pdf/1708.02596.pdf) and [Generative Adversarial Imitation Learning (GAIL)]
-		(https://arxiv.org/pdf/1606.03476.pdf) in mechanical environments from OpenAI Gym. 
+		(MB-DRL)](https://arxiv.org/pdf/1708.02596.pdf) and [Generative Adversarial Imitation Learning (GAIL)](https://arxiv.org/pdf/1606.03476.pdf) in mechanical environments from OpenAI Gym. 
 		For the limited number of environments we tested, we conclude that GAIL outperforms MB-DRL. 
 		In the case of the model-based algorithm we believe that we can improve its performance 
 		by changing the way the optimal action is chosen and by improving the policy with model-free 
@@ -109,6 +108,24 @@ dmpc:
 		**Keywords**: *optimization, model predictive control, gradient methods, ADMM*<br>
 		**Technical skills**: *MATLAB, Simulink*'
     url: "/assets/pdfs/ECE236C_Project.pdf"
+    btn_label: "PDF"
+    btn_class: "btn--primary"
+neural_net:
+  - image_path: /assets/images/NN_confusion_matrix.png
+    alt: "Neural Networks project img"
+    title: "Task Classification of EEG Data with Neural Networks"
+    excerpt: '*(joint work with T. Le, H. Unal, H.-C. Hung)*<br>
+		In brain-computer interfacing, there has been an increased interest in the problem 
+		of end-to-end electroencephalogram (EEG) signal decoding. In this project, we 
+		studied deep neural networks with a range of different architectures for the purpose of 
+		decoding four imagined tasks from raw EEG taken with 22 electrodes. First, two purely CNN architectures with different 
+		network depths were considered. Next, performance of several architectures based on LSTM 
+		and GRU was studied. The experiments have shown that the best testing accuracy of 62.8% 
+		is achieved by using Deep ConvNet. This is unexpected because RNNs are known to handle 
+		temporal series, like EEG, better than CNNs. <br>
+		**Keywords**: *deep neural networks, convolutional neural networks, recurrent neural networks*<br>
+		**Technical skills**: *Keras, TensorFlow, Python*'
+    url: "/assets/pdfs/EE239_DeepLearning_EEG_Project.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
 ---
@@ -156,6 +173,3 @@ and practices.
 
 ## Professional Service
 
-## Experience
-
-## Education
