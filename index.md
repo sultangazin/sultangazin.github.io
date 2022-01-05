@@ -181,17 +181,17 @@ and practices.
 
 ## Publications
 
-A. Sultangazin, L. Fraile, and P. Tabuada, "Exploiting the experts: Learning to control unknown SISO feedback linearizable systems from expert demonstrations," to appear 2021 IEEE Conference on Decision and Control (CDC) 
+A. Sultangazin, L. Fraile, and P. Tabuada, "Exploiting the experts: Learning to control unknown SISO feedback linearizable systems from expert demonstrations," *2021 IEEE Conference on Decision and Control (CDC)*. 
 
-A. Sultangazin and P. Tabuada, "Symmetries and isomorphisms for privacy in control over the cloud," in IEEE Transactions on Automatic Control, vol. 66, no. 2, pp. 538-549, Feb. 2021. 
+A. Sultangazin and P. Tabuada, "Symmetries and isomorphisms for privacy in control over the cloud," in *IEEE Transactions on Automatic Control*, vol. 66, no. 2, pp. 538-549, Feb. 2021. [Link](https://ieeexplore.ieee.org/document/9044196)
 
-A. Sultangazin, S. Diggavi and P. Tabuada, " Symmetries and Privacy in Control Over the Cloud: Uncertainty Sets and Side Knowledge," 2019 IEEE Conference on Decision and Control (CDC), Nice, France
+A. Sultangazin, S. Diggavi and P. Tabuada, "Symmetries and Privacy in Control Over the Cloud: Uncertainty Sets and Side Knowledge," *2019 IEEE Conference on Decision and Control (CDC)*, Nice, France. [Link](https://ieeexplore.ieee.org/document/9029609)
 
-A. Sultangazin, S. Diggavi and P. Tabuada, "Protecting the Privacy of Networked Multi-Agent Systems Controlled over the Cloud," 2018 27th International Conference on Computer Communication and Networks (ICCCN), Hangzhou, China, 2018, pp. 1-7. doi: 10.1109/ICCCN.2018.8487355
+A. Sultangazin, S. Diggavi and P. Tabuada, "Protecting the Privacy of Networked Multi-Agent Systems Controlled over the Cloud," *2018 27th International Conference on Computer Communication and Networks (ICCCN)*, Hangzhou, China, 2018, pp. 1-7. [Link](https://ieeexplore.ieee.org/document/8487355)
 
-A. Sultangazin and P. Tabuada, "Towards the use of Symmetries to Ensure Privacy in Control Over the Cloud," 2018 IEEE Conference on Decision and Control (CDC), Miami Beach, FL, 2018, pp. 5008-5013. doi: 10.1109/CDC.2018.8619510
+A. Sultangazin and P. Tabuada, "Towards the use of Symmetries to Ensure Privacy in Control Over the Cloud," *2018 IEEE Conference on Decision and Control (CDC)*, Miami Beach, FL, 2018, pp. 5008-5013. [Link](https://ieeexplore.ieee.org/document/8619510)
 
-A. Sultangazin, J. Kusmangaliyev, A. Aitkulov, D. Akilbekova, M. Olivero and D. Tosi, "Design of a Smartphone Plastic Optical Fiber Chemical Sensor for Hydrogen Sulfide Detection." IEEE Sensors Journal, 17(21): 6935-6940, 2017. doi: 10.1109/JSEN.2017.2752717
+A. Sultangazin, J. Kusmangaliyev, A. Aitkulov, D. Akilbekova, M. Olivero and D. Tosi, "Design of a Smartphone Plastic Optical Fiber Chemical Sensor for Hydrogen Sulfide Detection." *IEEE Sensors Journal*, 17(21): 6935-6940, 2017. [Link](https://ieeexplore.ieee.org/document/8038785)
 
 ## Selection of previous projects
 
@@ -203,3 +203,4 @@ A. Sultangazin, J. Kusmangaliyev, A. Aitkulov, D. Akilbekova, M. Olivero and D. 
 
 ## Professional Service
 
+* Reviewer: [Automatica](https://www.journals.elsevier.com/automatica), [IFAC World Congress 2020](https://www.ifac2020.org/), [IEEE Control Systems Letters](http://ieee-cssletters.dei.unipd.it/index.php).
