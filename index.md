@@ -128,6 +128,22 @@ neural_net:
     url: "/assets/pdfs/EE239_DeepLearning_EEG_Project.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
+pulse_est:
+  - image_path: /assets/images/PPG_Estimate.png
+    alt: "Computational imaging project img"
+    title: "Remote PPG with POS and 2SR"
+    excerpt: '*(joint work with J. Bunton)*<br>
+		We explore the task of remote photo-plethysmography (rPPG), where we use 
+		standard RGB videos to estimate a pulse signal of a human subject. We construct a simple 
+		proof-of-concept algorithmic pipeline using both the Spatial Subspace Rotation (2SR) 
+		and Plane-Orthogonal-to-Skin (POS) methods, requiring only one initial skin-pixel 
+		identification step. We then verify our pipeline's output with a small sample from two 
+		data sets, and discuss potential areas for improvement. <br>
+		**Keywords**: *image processing, SVM, living skin tissue segmentation, remote photoplethysmography*<br>
+		**Technical skills**: *MATLAB*'
+    url: "/assets/pdfs/ECE_239AS_Imaging_Project.pdf"
+    btn_label: "PDF"
+    btn_class: "btn--primary"
 ---
 
 {% include author-profile-inline.html type="left" %}
@@ -170,6 +186,8 @@ and practices.
 {% include feature_row type="left" id="alphapilot" %}
 {% include feature_row type="left" id="reinforcement" %}
 {% include feature_row type="left" id="dmpc" %}
+{% include feature_row type="left" id="neural_net" %}
+{% include feature_row type="left" id="pulse_est" %}
 
 ## Professional Service
 
