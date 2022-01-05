@@ -196,6 +196,7 @@ A. Sultangazin, J. Kusmangaliyev, A. Aitkulov, D. Akilbekova, M. Olivero and D. 
 ## Selection of previous projects
 
 {% include feature_row type="left" id="alphapilot" %}
+
 {% include feature_row type="left" id="reinforcement" %}
 {% include feature_row type="left" id="dmpc" %}
 {% include feature_row type="left" id="neural_net" %}
