@@ -56,11 +56,10 @@ privacy_in_control:
     btn_label2: "Slides"
     btn_class2: "btn--primary"
 alphapilot:
-  - image_path: /assets/images/alphapilot.jpeg
-    alt: "AlphaPilot image"
+  - alt: "AlphaPilot image"
     title: "AlphaPilot AI Drone Innovation Challenge"
     excerpt: '*(as a member of the team Formula Drone)*<br>
-		Finished as the top qualifier among 424 teams, ahead of numerous
+		Finished as the top qualifier among an international list of 424 teams, ahead of numerous
 		teams and research groups. Worked on the design of the AI
 		framework, written in C++ and powered by NVIDIA Jetson, that
 		can pilot racing drones through aerial courses at high speed
