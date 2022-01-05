@@ -130,6 +130,7 @@ and practices.
 ## Other Projects
 
 {% include feature_row type="left" id="alphapilot" %}
+
 {% include feature_row type="left" id="reinforcement" %}
 
 ## Professional Service
