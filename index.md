@@ -57,6 +57,7 @@ privacy_in_control:
     btn_class2: "btn--primary"
 alphapilot:
   - image_path: /assets/images/LFD.png
+    alt: "AlphaPilot image"
 ---
 
 {% include author-profile-inline.html type="left" %}
@@ -93,6 +94,8 @@ and practices.
 {% include feature_row type="left" id="privacy_in_control" %}
 
 ## Other Projects
+
+{% include feature_row type="left" id="alphapilot" %}
 
 ## Professional Service
 
