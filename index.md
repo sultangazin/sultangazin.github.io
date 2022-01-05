@@ -58,6 +58,7 @@ privacy_in_control:
 alphapilot:
   - image_path: /assets/images/alphapilot.jpeg
     alt: "AlphaPilot image"
+    title: "AlphaPilot AI Drone Innovation Challenge"
 ---
 
 {% include author-profile-inline.html type="left" %}
