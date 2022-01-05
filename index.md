@@ -66,12 +66,31 @@ alphapilot:
 		can pilot racing drones through aerial courses at high speed
 		without GPS, data relay or human intervention. I designed 
 		algorithms for optimal trajectory generation and obstacle avoidance.
-		Was involved in training of the perception system, more specifically,
+		Was involved in development of the perception system, more specifically,
 		during data collection and integration of the neural network with NVIDIA Jetson.<br>
 		**Keywords**: *optimal trajectory generation, obstacle avoidance, control barrier functions, neural networks, object detection*<br>
-		**Technical skills**: *ROS, C++, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT, Git, *'
+		**Technical skills**: *ROS, C++, Python, MATLAB, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT, Git*'
     url: "https://www.herox.com/alphapilot/82-teams"
     btn_label: "Website"
+    btn_class: "btn--primary"
+reinforcement:
+  - image_path: /assets/images/RL_img.png
+    alt: "RL Project img"
+    title: "Learning to Control Mechanical Systems"
+    excerpt: '*(joint work with Matteo Marchi, Marcus Lucas, and Lucas Fraile)*<br>
+		We want to understand trade-offs inherent in applying learning-based control
+		strategies to standard control problems, solvable with classical techniques.
+		To this goal, we study the performance of [Model-Based Deep Reinforcement Learning 
+		(MB-DRL)](https://arxiv.org/pdf/1708.02596.pdf) and [Generative Adversarial Imitation Learning (GAIL)]
+		(https://arxiv.org/pdf/1606.03476.pdf) in mechanical environments from OpenAI Gym. 
+		For the limited number of environments we tested, we conclude that GAIL outperforms MB-DRL. 
+		In the case of the model-based algorithm we believe that we can improve its performance 
+		by changing the way the optimal action is chosen and by improving the policy with model-free 
+		methods.
+		**Keywords**: *reinforcement learning, imitation learning, model predictive control*<br>
+		**Technical skills**: *PyTorch, OpenAI Gym*'
+    url: "/assets/pdfs/ECE239AS_Project_Final.pdf"
+    btn_label: "PDF"
     btn_class: "btn--primary"
 ---
 
@@ -111,6 +130,7 @@ and practices.
 ## Other Projects
 
 {% include feature_row type="left" id="alphapilot" %}
+{% include feature_row type="left" id="reinforcement" %}
 
 ## Professional Service
 
