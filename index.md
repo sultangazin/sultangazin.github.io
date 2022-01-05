@@ -151,8 +151,8 @@ pulse_est:
 Independent problem solver with 
 experience leading research and development – from 
 conception to implementation – of cutting-edge algorithms 
-for [*privacy in optimal control*](https://arxiv.org/abs/1906.07460) and [*learning from 
-demonstrations*](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has more than 5 years of experience 
+for [privacy in optimal control](https://arxiv.org/abs/1906.07460) and [learning from 
+demonstrations](https://github.com/sultangazin/cyphy_testbed/tree/LFD). Has more than 5 years of experience 
 in *non-linear 
 control and estimation* algorithms.  
 {: .text-justify}  
@@ -168,7 +168,7 @@ Fast learner with a deep understanding of:
  
 Has a vast experience of 
 clearly *communicating technical ideas* and a demonstrable 
-[*track record of publications*](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
+[track record of publications](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
 conferences. Adept in the modern software engineering tools
 and practices.
 {: .text-justify}  
