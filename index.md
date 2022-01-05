@@ -18,8 +18,8 @@ learning_from_demonstrations:
 		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
 		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.<br>
-		*Keywords: learning from demonstrations, imitation learning, motion control* <br>
-		*Technical skills used: ROS, C++, Python, MATLAB, Simulink* '
+		**Keywords**: *learning from demonstrations, imitation learning, motion control* <br>
+		**Technical skills**: *ROS, C++, Python, MATLAB, Simulink* '
     url: "/assets/pdfs/UCLA-CyPhyLab-2021-03.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
@@ -47,8 +47,8 @@ privacy_in_control:
 		We also quantify the amount of provided privacy and 
 		discuss how much privacy is lost when the adversary has 
 		access to side knowledge.<br>
-		*Keywords: data privacy, optimization, predictive control*<br>
-		*Technical skills used: MATLAB, Simulink *'
+		**Keywords**: data privacy, optimization, predictive control*<br>
+		**Technical skills**: *MATLAB, Simulink*'
     url: "https://arxiv.org/pdf/1906.07460.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
