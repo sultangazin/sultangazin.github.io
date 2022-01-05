@@ -6,7 +6,7 @@ toc: true
 learning_from_demonstrations:
   - image_path: /assets/images/LFD.png
     alt: "Learning From Demonstrations img"
-    title: "Learning From Expert Demonstrations"
+    title: "Learning Control From Expert Demonstrations"
     excerpt: '*(joint work with L. Fraile, L. Pannocchi, and P. Tabuada)*<br>
 		We revisit the problem of learning a 
 		stabilizing controller from a finite number of 
@@ -17,7 +17,9 @@ learning_from_demonstrations:
 		best n+1 demonstrations to approximate the stabilizing controller
 		in the best way. The 
 		feasibility of the proposed algorithm is experimentally 
-		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.'
+		demonstrated by applying it on a CrazyFlie 2.0 quadrotor.<br>
+		*Keywords: learning from demonstrations, imitation learning, motion control* <br>
+		*Technical skills used: ROS, C++, Python, MATLAB, Simulink* '
     url: "/assets/pdfs/UCLA-CyPhyLab-2021-03.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
@@ -44,12 +46,32 @@ privacy_in_control:
 		transformation-based methods for enforcing data privacy. 
 		We also quantify the amount of provided privacy and 
 		discuss how much privacy is lost when the adversary has 
-		access to side knowledge.'
+		access to side knowledge.<br>
+		*Keywords: data privacy, optimization, predictive control*<br>
+		*Technical skills used: MATLAB, Simulink '
     url: "https://arxiv.org/pdf/1906.07460.pdf"
     btn_label: "PDF"
     btn_class: "btn--primary"
     url2: "/assets/pdfs/CDC19_Presentation.pdf"
     btn_label2: "Slides"
+    btn_class2: "btn--primary"
+alphapilot:
+  - image_path: /assets/images/alphapilot.jpeg
+    alt: 'AlphaPilot image'
+    title: "AlphaPilot AI Drone Innovation Challenge"
+    excerpt: '*(as a member of the team Formula Drone)*<br>
+		Finished as the top qualifier among 424 teams, ahead of numerous
+		teams and research groups. Worked on the design of the AI
+		framework, written in C++ and powered by NVIDIA Jetson, that
+		can pilot racing drones through aerial courses at high speed
+		without GPS, data relay or human intervention. I designed 
+		algorithms for optimal trajectory generation and obstacle avoidance.
+		Was involved in training of the quadrotor's perception system, more specifically,
+		during data collection and integration of the network with NVIDIA Jetson.<br>
+		*Keywords: optimal trajectory generation, obstacle avoidance, control barrier functions*<br>
+		*Technical skills used: ROS, C++, ACADO, qpOASES, TensorFlow, NVIDIA TensorRT*'
+    url: "https://www.herox.com/alphapilot/82-teams?"
+    btn_label2: "Website"
     btn_class2: "btn--primary"
 ---
 
@@ -87,6 +109,8 @@ and practices.
 {% include feature_row type="left" id="privacy_in_control" %}
 
 ## Other Projects
+
+{% include feature_row type="left" id="alphapilot" %}
 
 ## Professional Service
 
