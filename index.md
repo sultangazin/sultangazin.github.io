@@ -160,7 +160,7 @@ in *non-linear
 control and estimation* algorithms.  
 {: .text-justify}  
    
-Fast learner with a deep understanding of:
+Fast learner with practical knowledge of:
 * nonlinear optimization
 * motion planning algorithms 
 * probabilistic robotics
@@ -207,4 +207,4 @@ A. Sultangazin, J. Kusmangaliyev, A. Aitkulov, D. Akilbekova, M. Olivero and D. 
 
 ## Professional Service
 
-* Reviewer: [Automatica](https://www.journals.elsevier.com/automatica), [IFAC World Congress 2020](https://www.ifac2020.org/), [IEEE Control Systems Letters](http://ieee-cssletters.dei.unipd.it/index.php).
+* Reviewer: [Automatica](https://www.journals.elsevier.com/automatica), [IFAC World Congress 2020](https://www.ifac2020.org/), [IEEE Control Systems Letters](http://ieee-cssletters.dei.unipd.it/index.php), [IEEE Transactions on Automatic Control](http://ieeecss.org/publication/transactions-automatic-control).
