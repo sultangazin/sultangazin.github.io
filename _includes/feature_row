@@ -41,6 +41,9 @@
 		{% if f.url3 %}
 		<a href="{{ f.url3 | relative_url }}" class="btn {{ f.btn_class3 }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
 	        {% endif %}
+		{% if f.url4 %}
+		<a href="{{ f.url4 | relative_url }}" class="btn {{ f.btn_class4 }}">{{ f.btn_label4 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+	        {% endif %}
             </p>
           {% endif %}
         </div>
