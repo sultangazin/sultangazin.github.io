@@ -29,6 +29,9 @@ learning_from_demonstrations:
     url3: "https://github.com/sultangazin/cyphy_testbed/tree/LFD"
     btn_label3: "GitHub"
     btn_class3: "btn--primary"
+    btn_label4: "Slides"
+    btn_class4: "btn--primary"
+    url4: "/assets/pdfs/CDC_2021_Presentation.pdf"
 privacy_in_control:
   - image_path: /assets/images/PrivacyInControl.jpg
     alt: "Privacy In Control img"
@@ -169,7 +172,7 @@ Fast learner with a deep understanding of:
 Has a vast experience of 
 clearly *communicating technical ideas* and a demonstrable 
 [track record of publications](https://scholar.google.com/citations?hl=en&user=zf4Fxb0AAAAJ) in major journals and 
-conferences. Adept in the modern software engineering tools
+conferences in control theory. Adept in the modern software engineering tools
 and practices.
 {: .text-justify}  
 
@@ -181,7 +184,7 @@ and practices.
 
 ## Publications
 
-A. Sultangazin, L. Fraile, and P. Tabuada, "Exploiting the experts: Learning to control unknown SISO feedback linearizable systems from expert demonstrations," *2021 IEEE Conference on Decision and Control (CDC)*. 
+A. Sultangazin, L. Fraile, and P. Tabuada, "Exploiting the experts: Learning to control unknown SISO feedback linearizable systems from expert demonstrations," *2021 IEEE Conference on Decision and Control (CDC)*. [Link](https://ieeexplore.ieee.org/document/9683193)
 
 A. Sultangazin and P. Tabuada, "Symmetries and isomorphisms for privacy in control over the cloud," in *IEEE Transactions on Automatic Control*, vol. 66, no. 2, pp. 538-549, Feb. 2021. [Link](https://ieeexplore.ieee.org/document/9044196)
 
