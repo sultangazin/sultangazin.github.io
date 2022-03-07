@@ -29,9 +29,9 @@ learning_from_demonstrations:
     url3: "https://github.com/sultangazin/cyphy_testbed/tree/LFD"
     btn_label3: "GitHub"
     btn_class3: "btn--primary"
+    url4: "/assets/pdfs/CDC_2021_Presentation.pdf"
     btn_label4: "Slides"
     btn_class4: "btn--primary"
-    url4: "/assets/pdfs/CDC_2021_Presentation.pdf"
 privacy_in_control:
   - image_path: /assets/images/PrivacyInControl.jpg
     alt: "Privacy In Control img"
